@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.logo{
+    display: block;
+    margin-left: 400px;
+    margin-top: 100px;
+    
+}
+
+
+
+.h1{
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+
+
+.p{
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+
+.h11{
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+.li{
+    color: blue;
+    margin-top: 15px;
+    margin-left: 400px;
+    
+}
+
+li::marker {
+    color: #000;
+}
+
+.imgs{
+    margin-top: 20px;
+    margin-left: 370px;
+}
