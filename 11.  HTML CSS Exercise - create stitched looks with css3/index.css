@@ -1,0 +1,7 @@
+button{
+    background: blue;
+    border: 2px dashed rgb(134, 1, 1);
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
