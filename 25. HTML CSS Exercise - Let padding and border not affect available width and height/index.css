@@ -1,0 +1,50 @@
+.i{
+width: 100px;
+height: 100px;
+background: aqua;
+color: rgb(109, 0, 0);
+margin-left: 100px;
+margin-top: 100px;
+}
+
+
+.i span{
+    
+    
+    color: rgb(175, 233, 0);
+    
+    }
+
+
+.t{
+    width: 80px;
+    height: 70px;
+    border: 10px solid aqua;
+    
+    margin-left: 100px;
+    margin-top: 100px; 
+    padding-top: 10px;
+    color: rgb(233, 0, 0);
+    }
+
+
+.q{
+    width: 100px;
+    height: 80px;
+    background: blue;
+    color: rgb(233, 0, 0);
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-top: 20px;
+    }
+
+
+    
+
+
+    section{
+        display: flex;
+    }
+    
+
+

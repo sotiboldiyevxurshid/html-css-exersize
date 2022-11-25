@@ -1,0 +1,53 @@
+.container{
+	text-align:center;
+    padding-left: 100px;
+	
+}
+
+
+
+
+
+.button{
+    display: flex;
+    padding-left: 10px;
+}
+
+.linear{
+    width: 100px;
+    height: 100px;
+	background:linear-gradient(to bottom,
+     #4b6c9c ,
+      #880000);
+}
+
+.radial{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+	background:radial-gradient(
+#4b6c9c,
+#5ac4ed);
+}
+
+.repeating-linear{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+	background:repeating-linear-gradient(-45deg, 
+#4b6c9c, 
+#5ac4ed 5px, 
+#fff 5px, 
+#fff 10px);
+}
+
+.repeating-radial{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+	background:repeating-radial-gradient(
+#4b6c9c, 
+#5ac4ed 5px, 
+#fff 5px, 
+#fff 10px);
+}
